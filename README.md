@@ -7,7 +7,8 @@ Visualisations created with D3.js, SVG and CSS animation
 
 [https://thisisa.lockdownchemz.link/](https://thisisa.lockdownchemz.link/)
 
-![lockdownchez](https://bdec31521c28f58d04a0-f919f4c862fd2770d5d9ff992baca219.ssl.cf3.rackcdn.com/chemz.gif)
+<img src="https://bdec31521c28f58d04a0-f919f4c862fd2770d5d9ff992baca219.ssl.cf3.rackcdn.com/chemz.gif" alt="lockdownchez" width="300">
+
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCotton&repo=lockdownchemz)
 
@@ -15,7 +16,7 @@ Visualisations created with D3.js, SVG and CSS animation
 
 A Progressive Web App (PWA) built using videojs-wavesurfer, wavesurfer.js && video.js
 
-![lockdownchez](https://bdec31521c28f58d04a0-f919f4c862fd2770d5d9ff992baca219.ssl.cf3.rackcdn.com/lockdownbabylogo.gif | width=300)
+<img src="https://bdec31521c28f58d04a0-f919f4c862fd2770d5d9ff992baca219.ssl.cf3.rackcdn.com/lockdownbabylogo.gif" alt="lockdownchez" width="300">
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCotton&repo=baby-lockdown)
 
@@ -24,7 +25,7 @@ A Progressive Web App (PWA) built using videojs-wavesurfer, wavesurfer.js && vid
 
 Online image compressor that used Web Assembly and Backbone.js
 
-![lockdownchez](https://bdec31521c28f58d04a0-f919f4c862fd2770d5d9ff992baca219.ssl.cf3.rackcdn.com/localhost_1234_.png)
+<img src="https://bdec31521c28f58d04a0-f919f4c862fd2770d5d9ff992baca219.ssl.cf3.rackcdn.com/localhost_1234_.png" alt="imagecompression" width="300">
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCotton&repo=LightningWASM)
 
