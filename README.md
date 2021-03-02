@@ -15,7 +15,7 @@ Visualisations created with D3.js, SVG and CSS animation
 
 A Progressive Web App (PWA) built using videojs-wavesurfer, wavesurfer.js && video.js
 
-![lockdownchez](https://bdec31521c28f58d04a0-f919f4c862fd2770d5d9ff992baca219.ssl.cf3.rackcdn.com/lockdownbabylogo.gif){width=300px}
+![lockdownchez](https://bdec31521c28f58d04a0-f919f4c862fd2770d5d9ff992baca219.ssl.cf3.rackcdn.com/lockdownbabylogo.gif | width=300)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCotton&repo=baby-lockdown)
 
