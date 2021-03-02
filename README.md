@@ -5,30 +5,25 @@
 
 Visualisations created with D3.js, SVG and CSS animation
 
-[https://thisisa.lockdownchemz.link/](https://thisisa.lockdownchemz.link/)
+<a href="https://thisisa.lockdownchemz.link/"><img src="https://bdec31521c28f58d04a0-f919f4c862fd2770d5d9ff992baca219.ssl.cf3.rackcdn.com/chemz.gif" alt="lockdownchez" width="300"></a>
 
-<img src="https://bdec31521c28f58d04a0-f919f4c862fd2770d5d9ff992baca219.ssl.cf3.rackcdn.com/chemz.gif" alt="lockdownchez" width="300">
-
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCotton&repo=lockdownchemz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCotton&repo=lockdownchemz)](https://github.com/TCotton/lockdownchemz)
 
 ### lockdownbaby.eth.link
 
 A Progressive Web App (PWA) built using videojs-wavesurfer, wavesurfer.js && video.js
 
-<img src="https://bdec31521c28f58d04a0-f919f4c862fd2770d5d9ff992baca219.ssl.cf3.rackcdn.com/lockdownbabylogo.gif" alt="lockdownchez" width="300">
+<a href="https://lockdownbaby.eth.link/"><img src="https://bdec31521c28f58d04a0-f919f4c862fd2770d5d9ff992baca219.ssl.cf3.rackcdn.com/lockdownbabylogo.gif" alt="lockdownchez" width="300"></a>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCotton&repo=baby-lockdown)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCotton&repo=baby-lockdown)](https://github.com/TCotton/baby-lockdown)
 
 ### pngjpeg.imagecompression.online
 
 Online image compressor that used Web Assembly and Backbone.js
 
-<img src="https://bdec31521c28f58d04a0-f919f4c862fd2770d5d9ff992baca219.ssl.cf3.rackcdn.com/localhost_1234_.png" alt="imagecompression" width="300">
+<a href="https://pngjpeg.imagecompression.online/"><img src="https://bdec31521c28f58d04a0-f919f4c862fd2770d5d9ff992baca219.ssl.cf3.rackcdn.com/localhost_1234_.png" alt="imagecompression" width="300"></a>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCotton&repo=LightningWASM)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCotton&repo=LightningWASM)](https://github.com/TCotton/LightningWASM)
 
 <!--
 **TCotton/TCotton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
