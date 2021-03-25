@@ -22,7 +22,7 @@ A Progressive Web App (PWA) built using videojs-wavesurfer, wavesurfer.js && vid
 
 ### pngjpeg.imagecompression.online
 
-Online image compressor that used Web Assembly and Backbone.js
+Online image compressor built with Web Assembly and Backbone.js
 
 <a href="https://pngjpeg.imagecompression.online/"><img src="https://bdec31521c28f58d04a0-f919f4c862fd2770d5d9ff992baca219.ssl.cf3.rackcdn.com/localhost_1234_.png" alt="imagecompression" width="300"> 🔗</a>
 
