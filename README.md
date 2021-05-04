@@ -1,6 +1,12 @@
 ### Hi there 👋
 ## Here are some side projects from 2021
 
+### Fantastic Doodle
+
+A collection of full tested pure functions created with Ramda.js
+
+<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/943/landscape/ramda.png" widht="300" alt="" />
+
 ### convertvideo.forsocialmedia.link
 
 View, edit and transcode video for use on social media. 
