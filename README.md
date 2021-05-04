@@ -5,7 +5,7 @@
 
 A collection of full tested pure functions created with Ramda.js
 
-<a href="https://github.com/TCotton/fantastic-doodle"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/943/landscape/ramda.png" width="300" alt="" /> 🔗</a>
+<a href="https://github.com/TCotton/fantastic-doodle"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/943/landscape/ramda.png" width="400" alt="" /> 🔗</a>
 
 ### convertvideo.forsocialmedia.link
 
