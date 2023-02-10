@@ -16,7 +16,7 @@ Visualisations created with D3.js, SVG and CSS animation
 View, edit and transcode video for use on social media. 
 Built using D3.js, the Web Audio API, IndexedDB and WebAssembly (WASM) on a Gatsby/React/Redux base.
 
-### [convertvideo.forsocialmedia.link ->](https://convertvideo.forsocialmedia.link/)
+### [convertvideo.forsocialmedia.link/->](https://convertvideo.forsocialmedia.link/)
 
 A Progressive Web App (PWA) built using videojs-wavesurfer, wavesurfer.js && video.js
 
