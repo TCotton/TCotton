@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Here are some side projects from 2021
 
-### Fantastic Doodle
+### [Fantastic Doodle -> ](https://github.com/TCotton/fantastic-doodle)
 
 A collection of tested pure functions created with Ramda.js
 
@@ -16,11 +16,11 @@ Visualisations created with D3.js, SVG and CSS animation
 View, edit and transcode video for use on social media. 
 Built using D3.js, the Web Audio API, IndexedDB and WebAssembly (WASM) on a Gatsby/React/Redux base.
 
-### ([convertvideo.forsocialmedia.link -> ](https://convertvideo.forsocialmedia.link/)) 
+### [convertvideo.forsocialmedia.link -> ](https://convertvideo.forsocialmedia.link/)
 
 A Progressive Web App (PWA) built using videojs-wavesurfer, wavesurfer.js && video.js
 
-### ([pngjpeg.imagecompression.online](https://pngjpeg.imagecompression.online/)) 
+### [pngjpeg.imagecompression.online](https://pngjpeg.imagecompression.online/)
 
 Online image compressor built with Web Assembly and Backbone.js
 
