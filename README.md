@@ -20,8 +20,6 @@ Visualisations created with D3.js, SVG and CSS animation
 
 A Progressive Web App (PWA) built using videojs-wavesurfer, wavesurfer.js && video.js
 
-<a href="https://lockdownbaby.eth.link/"><img src="https://bdec31521c28f58d04a0-f919f4c862fd2770d5d9ff992baca219.ssl.cf3.rackcdn.com/lockdownbabylogo.gif" alt="lockdownchez" width="300"> 🔗</a>
-
 ### [pngjpeg.imagecompression.online  Go](pngjpeg.imagecompression.online) 
 
 Online image compressor built with Web Assembly and Backbone.js
