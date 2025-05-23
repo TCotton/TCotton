@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Andrew Walpole. A developer that is of m
+
 ## Here are some side projects from 2023
 
 ### [Harold Hill: A People's History ->](https://www.haroldhill.org/)
