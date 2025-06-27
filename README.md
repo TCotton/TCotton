@@ -9,7 +9,7 @@ I'm currently coding my new portfolio, which will be launched soon
 
  A local history site built out of Next js and GOV.UK Frontend
  
-code -> https://github.com/TCotton/hhill
+Built with Next.js -> https://github.com/TCotton/hhill
 
 ## Here are some side projects from 2021
 
@@ -21,20 +21,20 @@ A collection of tested pure functions created with Ramda.js
 
 ### [thisisa.lockdownchemz.link ->](https://thisisa.lockdownchemz.link/)
 
-Visualisations created with D3.js, SVG and CSS animation
+Visualisations created with D3.js, SVG and CSS animation: https://github.com/TCotton/lockdownchemz
 
 ### [convertvideo.forsocialmedia.link ->](https://convertvideo.forsocialmedia.link/)
 
 View, edit and transcode video for use on social media. 
-Built using D3.js, the Web Audio API, IndexedDB and WebAssembly (WASM) on a Gatsby/React/Redux base.
+Built using D3.js, the Web Audio API, IndexedDB and WebAssembly (WASM) on a Gatsby/React/Redux base: https://github.com/TCotton/Online-Browser-Video-Editor
 
 ### [lockdownbaby.eth.link/->](https://lockdownbaby.eth.link/)
 
-A Progressive Web App (PWA) built using videojs-wavesurfer, wavesurfer.js && video.js. Hosted on Web3 distributed network
+A Progressive Web App (PWA) built using videojs-wavesurfer, wavesurfer.js && video.js. Hosted on Web3 distributed network: https://github.com/TCotton/baby-lockdown
 
 ### [pngjpeg.imagecompression.online ->](https://pngjpeg.imagecompression.online/)
 
-Online image compressor built with Web Assembly and Backbone.js
+Online image compressor built with Web Assembly and Backbone.js; https://github.com/TCotton/LightningWASM
 
 <!--
 **TCotton/TCotton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
