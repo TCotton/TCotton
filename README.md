@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Andrew Walpole, I'm London-based software engineers who has been in this industry for 15 years. My last two roles were as tech lead, both on the frontend and backend respectively.
+My name is Andrew Walpole, I'm London-based software engineer who has been in this industry for over 15 years. My last two roles were as tech lead, both on the frontend and backend respectively.
 I'm currently coding my new portfolio, which will be launched soon
 
 ## Here are some side projects from 2023
