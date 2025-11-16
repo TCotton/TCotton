@@ -7,7 +7,7 @@ My new personal promotional website is here: [andywalpole.me](https://andywalpol
 
 ### [UUIDv7 Utilities ->](https://www.npmjs.com/package/uuidv7-utilities)
 
-Utility functions to help with UUID v4 -> https://github.com/TCotton/UUIDv7-Utils
+Utility functions to help with UUID v7 -> https://github.com/TCotton/UUIDv7-Utils
 
 ## Here are some side projects from 2023
 
