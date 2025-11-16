@@ -3,11 +3,17 @@
 My name is Andrew Walpole, I'm London-based software engineer who has been in this industry for over 15 years. My last two roles were as tech lead, both on the frontend and backend respectively.
 My new personal promotional website is here: [andywalpole.me](https://andywalpole.me/)
 
+## Here are some side projects from 2025
+
+### [UUIDv7 Utilities ->](https://www.npmjs.com/package/uuidv7-utilities)
+
+Utility functions to help with UUID v4 -> https://github.com/TCotton/UUIDv7-Utils
+
 ## Here are some side projects from 2023
 
 ### [Harold Hill: A People's History ->](https://www.haroldhill.org/)
 
- A local history site built out of Next js and GOV.UK Frontend
+A local history site built out of Next js and GOV.UK Frontend
  
 Built with Next.js -> https://github.com/TCotton/hhill
 
