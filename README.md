@@ -5,6 +5,10 @@ My new personal promotional website is here: [andywalpole.me](https://andywalpol
 
 ## Here are some side projects from 2025
 
+### [obscured ->](https://www.npmjs.com/package/obscured)
+
+A small TypeScript utility library for obscuring important data to prevent accidental exposure in logs -> https://github.com/TCotton/obscured
+
 ### [UUIDv7 Utilities ->](https://www.npmjs.com/package/uuidv7-utilities)
 
 Utility functions to help with UUID v7 -> https://github.com/TCotton/UUIDv7-Utils
